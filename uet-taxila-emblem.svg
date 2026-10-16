@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220">
+<circle cx="110" cy="110" r="103" fill="#fff" stroke="#183c69" stroke-width="6"/>
+<circle cx="110" cy="110" r="88" fill="none" stroke="#c89a38" stroke-width="2"/>
+<path d="M72 135 L72 78 L91 78 L110 105 L129 78 L148 78 L148 135 L130 135 L130 105 L110 132 L90 105 L90 135 Z" fill="#183c69"/>
+<path d="M78 151 H142" stroke="#c89a38" stroke-width="3"/>
+<text x="110" y="48" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="15" fill="#183c69">UET TAXILA</text>
+<text x="110" y="174" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="#183c69">ENGINEERING</text>
+<text x="110" y="187" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="#183c69"> & TECHNOLOGY</text>
+</svg>
